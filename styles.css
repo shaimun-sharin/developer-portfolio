@@ -8,14 +8,14 @@ h1 {
 .color-name {
     color: darksalmon;
 }
-section {
+.flexible-container{
     display: flex;
     margin-bottom: 200px;
     
 }
 .half-width {
     width: 50%;
-    padding-left: 0px;
+    padding-left: 20px;
   
    
 }
